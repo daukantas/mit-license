@@ -1,1 +1,8 @@
-{"copyright":"Leonardo Rifeli","url":"http:\/\/leonardorifeli.com","email":"leonardorifeli@gmail.com"}
+{
+  "copyright": "Leonardo Rifeli",
+  "url": "https://rifeli.dev",
+  "email": "leonardo@rifeli.dev",
+  "gravatar": true,
+  "format": "html",
+  "theme": "dusk"
+}
